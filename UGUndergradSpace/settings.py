@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'ugspace',
         'USER': 'postgres',
-        'PASSWORD': 'jesusC123',
+        'PASSWORD': 'onedon',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
